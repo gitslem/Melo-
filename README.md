@@ -4,7 +4,6 @@ Transform your hummed melodies into professional-quality musical arrangements wi
 <img width="1512" height="982" alt="Screenshot 2025-11-16 at 16 48 26" src="https://github.com/user-attachments/assets/8a5ab70e-ce31-4426-bed5-cef1e9f9d698" />
 
 <img width="1512" height="982" alt="Screenshot 2025-11-16 at 16 53 40" src="https://github.com/user-attachments/assets/60567138-858c-4a0e-b47a-ff2429b3230d" />
-<img width="1512" height="982" alt="Screenshot 2025-11-16 at 16 53 10" src="https://github.com/user-attachments/assets/1251220d-fb93-4ba5-bb92-0d6e3998fe94" />
 
 
 
