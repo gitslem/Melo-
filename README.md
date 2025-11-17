@@ -255,4 +255,4 @@ MIT License - feel free to use this project for personal or commercial purposes.
 
 ## Support
 
-For issues, questions, or feature requests, please open an issue on GitHub.
+For issues, questions, or feature requests, contact SLEM.
