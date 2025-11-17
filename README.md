@@ -1,10 +1,8 @@
 # Melo - Enhanced AI Melody Generator
 
 Transform your hummed melodies into professional-quality musical arrangements with AI-powered music generation. Melo takes your vocal ideas and converts them into polished MIDI files and synthesized audio with multiple instruments, scales, and enhancement modes.
-<img width="1512" height="982" alt="Screenshot 2025-11-16 at 15 40 09" src="https://github.com/user-attachments/assets/32848af5-3260-4b2d-8867-66141d7faf53" />
-<img width="1512" height="982" alt="Screenshot 2025-11-16 at 15 39 51" src="https://github.com/user-attachments/assets/65249ccc-8786-4689-9333-3fb107dddaa7" />
-<img width="1512" height="982" alt="Screenshot 2025-11-16 at 16 53 40" src="https://github.com/user-attachments/assets/edf2d489-c514-4403-a12e-402c452d96ea" />
-<img width="1512" height="982" alt="Screenshot 2025-11-16 at 16 53 10" src="https://github.com/user-attachments/assets/1d279f36-08ed-4a2f-8ad4-2f6091f43ad2" />
+<img width="1512" height="982" alt="Screenshot 2025-11-16 at 16 48 26" src="https://github.com/user-attachments/assets/8a5ab70e-ce31-4426-bed5-cef1e9f9d698" />
+
 <img width="1512" height="982" alt="Screenshot 2025-11-16 at 16 53 40" src="https://github.com/user-attachments/assets/60567138-858c-4a0e-b47a-ff2429b3230d" />
 <img width="1512" height="982" alt="Screenshot 2025-11-16 at 16 53 10" src="https://github.com/user-attachments/assets/1251220d-fb93-4ba5-bb92-0d6e3998fe94" />
 
